@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I Studied Java in the Develhope Course and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; I Studied Java in the Develhope Course and Electronics Engeneering at University of Catania.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,7 +19,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intelli-j)
 
 <br/>
 
