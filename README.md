@@ -24,8 +24,8 @@
 <br/>
 
 <a href="https://github.com/AlessandroCiaccio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandro%20Scrofani&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro%20Scrofani&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroCiaccio&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCiaccio&theme=buefy&layout=compact" />
 </a>
 
 <br/>
